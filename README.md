@@ -69,4 +69,4 @@ Claude should search for existing tools/libraries first and summarize what it fo
 
 ## License
 
-MIT
+Apache 2.0
