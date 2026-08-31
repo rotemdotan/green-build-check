@@ -27,13 +27,13 @@ Skills for Claude Code live in `~/.claude/skills/` (personal, available in every
 **Clone directly into your personal skills folder:**
 
 ```bash
-git clone https://github.com/<your-username>/green-build-check ~/.claude/skills/green-build-check
+git clone https://github.com/rotemdotan/green-build-check ~/.claude/skills/green-build-check
 ```
 
 **Or, if you're adding it to a specific project only:**
 
 ```bash
-git clone https://github.com/<your-username>/green-build-check .claude/skills/green-build-check
+git clone https://github.com/rotemdotan/green-build-check .claude/skills/green-build-check
 ```
 
 **Or install manually:**
